@@ -1,0 +1,482 @@
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.exe
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.deps.json
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.runtimeconfig.json
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.cache
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.lref
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.g.resources
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfoInputs.cache
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfo.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\refint\FragrantWorld.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.genruntimeconfig.cache
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\ref\FragrantWorld.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.g.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.baml
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.exe
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.deps.json
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.runtimeconfig.json
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.g.cs
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.g.cs
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.cache
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.lref
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.baml
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.g.resources
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfoInputs.cache
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfo.cs
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.CoreCompileInputs.cache
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\refint\FragrantWorld.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.genruntimeconfig.cache
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\ref\FragrantWorld.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.AssemblyReference.cache
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Fragrant.14885179.Up2Date
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+C:\Temp\ispp21\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.AssemblyReference.cache
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Fragrant.14885179.Up2Date
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.g.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.exe
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.deps.json
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.runtimeconfig.json
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.AssemblyReference.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.lref
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.g.resources
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfoInputs.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfo.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Fragrant.14885179.Up2Date
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\refint\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.genruntimeconfig.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\ref\FragrantWorld.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.exe
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.deps.json
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.runtimeconfig.json
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.AssemblyReference.cache
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.g.cs
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.g.cs
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.cache
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.lref
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.baml
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.baml
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.g.resources
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfoInputs.cache
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfo.cs
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Fragrant.14885179.Up2Date
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\refint\FragrantWorld.dll
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.genruntimeconfig.cache
+C:\Users\Артём\Downloads\Новая папка (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\ref\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.exe
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.deps.json
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.runtimeconfig.json
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.AssemblyReference.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.lref
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.g.resources
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfoInputs.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfo.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Fragrant.14885179.Up2Date
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\refint\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.genruntimeconfig.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\ref\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditOrderWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld (2)\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditOrderWindow.baml
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditOrderWindow.g.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditOrderWindow.baml
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+C:\Users\Артём\Documents\Итоговая работа\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditProductWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.exe
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.deps.json
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.runtimeconfig.json
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.AssemblyReference.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditOrderWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld_MarkupCompile.lref
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditOrderWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditProductWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\OrderWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\AdminPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ClientPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\ManagerPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Pages\StartPage.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.g.resources
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfoInputs.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.AssemblyInfo.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\Fragrant.14885179.Up2Date
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\refint\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.pdb
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\FragrantWorld.genruntimeconfig.cache
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\ref\FragrantWorld.dll
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\AddProductWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\AddProductWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld_pochi_FINALL\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\AddProductWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditOrderWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditProductWindow.g.cs
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\App.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\AddProductWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditOrderWindow.baml
+C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\EditProductWindow.baml
