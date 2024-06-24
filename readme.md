@@ -7,6 +7,8 @@
 
 Для открытия проекта вам потребуется среда разработки (Microsoft Visual Studio) и среда для управления инфраструктурой SQL (SQL Server Management Studio).
 
+В SSMS нужно будет применить следующий скрип: "CreateTablesWithValues.sql"
+
 Для полной установки программного обеспечения следуйте инструкциям установщика.
 
 Microsoft Visual Studio: https://visualstudio.microsoft.com/ru/vs/
