@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wCDQweUupWCzZlBpwOfh3poWkS1IqfHMmeEbbsEmFAWHpvfBsawKk5gQjfusGC+gykFUai7tX/dSfaV2uSk8HA==",
+  "dgSpecHash": "5aMIA6SSa2RkE6bMPzwRqHl+EFzpwr3Ubu+L3DauZTyR0cWBDEfdNl94NIe07lVyuJAsNpLVAycwjMKkygoHxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Артём\\Downloads\\Telegram Desktop\\FragrantWorld\\FragrantWorld\\FragrantWorld.csproj",
+  "projectFilePath": "C:\\Users\\Артём\\Documents\\GitHub\\---------------\\FragrantWorld\\FragrantWorld\\FragrantWorld.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Артём\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Артём\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

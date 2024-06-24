@@ -97,7 +97,7 @@ namespace FragrantWorld.Pages
 
         private void ShowOrderButton_Click(object sender, RoutedEventArgs e)
         {
-            var orderWindow = new OrderWindow(selectedProducts);
+            var orderWindow = new Windows.OrderWindow(selectedProducts);
             orderWindow.userFullnameTextBlock.Text = userInfoTextBlock.Text;
             orderWindow.ShowDialog();
             

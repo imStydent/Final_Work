@@ -1829,24 +1829,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Артём\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Артём\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Артём\\Downloads\\Telegram Desktop\\FragrantWorld\\FragrantWorld\\FragrantWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Артём\\Documents\\GitHub\\---------------\\FragrantWorld\\FragrantWorld\\FragrantWorld.csproj",
       "projectName": "FragrantWorld",
-      "projectPath": "C:\\Users\\Артём\\Downloads\\Telegram Desktop\\FragrantWorld\\FragrantWorld\\FragrantWorld.csproj",
+      "projectPath": "C:\\Users\\Артём\\Documents\\GitHub\\---------------\\FragrantWorld\\FragrantWorld\\FragrantWorld.csproj",
       "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Артём\\Downloads\\Telegram Desktop\\FragrantWorld\\FragrantWorld\\obj\\",
+      "outputPath": "C:\\Users\\Артём\\Documents\\GitHub\\---------------\\FragrantWorld\\FragrantWorld\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1901,7 +1896,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

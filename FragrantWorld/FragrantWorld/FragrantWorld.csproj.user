@@ -7,16 +7,16 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="AddProductWindow.xaml.cs">
+    <Compile Update="Windows\AddProductWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="EditOrderWindow.xaml.cs">
+    <Compile Update="Windows\EditOrderWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="EditProductWindow.xaml.cs">
+    <Compile Update="Windows\EditProductWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="OrderWindow.xaml.cs">
+    <Compile Update="Windows\OrderWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Pages\AdminPage.xaml.cs">
@@ -33,19 +33,19 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="AddProductWindow.xaml">
+    <Page Update="Windows\AddProductWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="EditOrderWindow.xaml">
+    <Page Update="Windows\EditOrderWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="EditProductWindow.xaml">
+    <Page Update="Windows\EditProductWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="Windows\MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="OrderWindow.xaml">
+    <Page Update="Windows\OrderWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Pages\AdminPage.xaml">

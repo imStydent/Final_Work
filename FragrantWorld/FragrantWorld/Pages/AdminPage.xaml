@@ -8,12 +8,12 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="AdminPage" FontFamily="Comic Sans MS">
 
-    <StackPanel>
-        <DockPanel HorizontalAlignment="Right">
+    <DockPanel>
+        <DockPanel HorizontalAlignment="Right" DockPanel.Dock="Top">
             <TextBlock Name="userInfoTextBlock" Margin="10, 0"/>
             <Button Name="exitSystemButton" Content="Выйти из системы" Click="ExitSystemButton_Click"/>
         </DockPanel>
-        <DockPanel>
+        <DockPanel DockPanel.Dock="Top">
             <ComboBox Name="sortProductsComboBox" SelectionChanged="SortProductsComboBox_SelectionChanged">
                 <TextBlock Text="По возврастанию"/>
                 <TextBlock Text="По убыванию"/>
@@ -28,11 +28,13 @@
                 <TextBox Name="searchTextBox" TextChanged="SearchTextBox_TextChanged" Width="470"/>
                 <TextBlock Name="hintSearchTextBlock" Text="Поиск" IsHitTestVisible="False"/>
             </Grid>
-            <Button Name="cancelFiltrationButton" Content="Отменить фильтрацию" Click="CancelFiltrationButton_Click"/>
-            <TextBlock Name="countProductsTextBlock"/>
+            <TextBlock Name="countProductsTextBlock" DockPanel.Dock="Right"/>
         </DockPanel>
-        <Button Name="showOrderButton" Content="Показать заказ" Visibility="Collapsed" Click="ShowOrderButton_Click"/>
-        <ScrollViewer VerticalScrollBarVisibility="Auto" Height="410">
+        <Button Name="showOrderButton" Content="Показать заказ" Visibility="Collapsed" Click="ShowOrderButton_Click" DockPanel.Dock="Top"/>
+        <Grid DockPanel.Dock="Bottom">
+            <Button Name="editOrderButton" Content="Редактировать заказы" Click="EditOrderButton_Click"/>
+        </Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Height="Auto" DockPanel.Dock="Top">
             <ListBox Name="productsListBox">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
@@ -68,8 +70,5 @@
                 </ListBox.ItemTemplate>
             </ListBox>
         </ScrollViewer>
-        <Grid>
-            <Button Name="editOrderButton" Content="Редактировать заказы" Click="EditOrderButton_Click"/>
-        </Grid>
-    </StackPanel>
+    </DockPanel>
 </Page>

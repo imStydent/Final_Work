@@ -8,30 +8,30 @@
       d:DesignHeight="450" d:DesignWidth="800"
       Title="ClientPage" FontFamily="Comic Sans MS">
 
-    <StackPanel>
-        <DockPanel HorizontalAlignment="Right">
+    <DockPanel>
+        <DockPanel HorizontalAlignment="Right" DockPanel.Dock="Top">
             <TextBlock Name="userInfoTextBlock" Margin="10, 0"/>
             <Button Name="exitSystemButton" Content="Выйти из системы" Click="ExitSystemButton_Click"/>
         </DockPanel>
-        <DockPanel>
-            <ComboBox Name="sortProductsComboBox" SelectionChanged="SortProductsComboBox_SelectionChanged">
+        <DockPanel DockPanel.Dock="Top">
+            <ComboBox Name="sortProductsComboBox" SelectionChanged="SortProductsComboBox_SelectionChanged" DockPanel.Dock="Left">
                 <TextBlock Text="По возврастанию"/>
                 <TextBlock Text="По убыванию"/>
             </ComboBox>
-            <ComboBox Name="discountRangeComboBox" SelectionChanged="DiscountRangeComboBox_SelectionChanged">
+            <ComboBox Name="discountRangeComboBox" SelectionChanged="DiscountRangeComboBox_SelectionChanged" DockPanel.Dock="Left">
                 <TextBlock Text="Все диапазоны"/>
                 <TextBlock Text="0-9,99%"/>
                 <TextBlock Text="10-14,99%"/>
                 <TextBlock Text="15% и более"/>
             </ComboBox>
-            <Grid>
-                <TextBox Name="searchTextBox" TextChanged="SearchTextBox_TextChanged" Width="470"/>
+            <Grid DockPanel.Dock="Left">
+                <TextBox Name="searchTextBox" TextChanged="SearchTextBox_TextChanged" MinWidth="430"/>
                 <TextBlock Name="hintSearchTextBlock" Text="Поиск" IsHitTestVisible="False"/>
             </Grid>
-            <TextBlock Name="countProductsTextBlock"/>
+            <TextBlock Name="countProductsTextBlock" DockPanel.Dock="Right"/>
         </DockPanel>
-        <Button Name="showOrderButton" Content="Показать заказ" Visibility="Collapsed" Click="ShowOrderButton_Click"/>
-        <ScrollViewer VerticalScrollBarVisibility="Auto" Height="410">
+        <Button Name="showOrderButton" Content="Показать заказ" Visibility="Collapsed" Click="ShowOrderButton_Click" DockPanel.Dock="Top"/>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Height="Auto">
             <ListBox Name="productsListBox">
                 <ListBox.ItemTemplate>
                     <DataTemplate>
@@ -63,5 +63,5 @@
                 </ListBox.ItemTemplate>
             </ListBox>
         </ScrollViewer>
-    </StackPanel>
+    </DockPanel>
 </Page>

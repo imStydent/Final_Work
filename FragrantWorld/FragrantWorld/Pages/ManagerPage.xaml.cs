@@ -96,21 +96,16 @@ namespace FragrantWorld.Pages
 
         private void ShowOrderButton_Click(object sender, RoutedEventArgs e)
         {
-            var orderWindow = new OrderWindow(selectedProducts);
+            var orderWindow = new Windows.OrderWindow(selectedProducts);
             orderWindow.userFullnameTextBlock.Text = userInfoTextBlock.Text;
             orderWindow.ShowDialog();
             if (!orderWindow.productsListBox.HasItems)
                 showOrderButton.Visibility = Visibility.Collapsed;
         }
 
-        private void CancelFiltrationButton_Click(object sender, RoutedEventArgs e)
-        {
-            discountRangeComboBox.SelectedIndex = 0;
-        }
-
         private void EditOrderButton_Click(object sender, RoutedEventArgs e)
         {
-            var editOrderWindow = new EditOrderWindow();
+            var editOrderWindow = new Windows.EditOrderWindow();
             editOrderWindow.ShowDialog();
         }
     }

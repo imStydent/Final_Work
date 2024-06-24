@@ -95,14 +95,9 @@ namespace FragrantWorld.Pages
             }
         }
 
-        private void CancelFiltrationButton_Click(object sender, RoutedEventArgs e)
-        {
-            discountRangeComboBox.SelectedIndex = 0;
-        }
-
         private void ShowOrderButton_Click(object sender, RoutedEventArgs e)
         {
-            var orderWindow = new OrderWindow(selectedProducts);
+            var orderWindow = new Windows.OrderWindow(selectedProducts);
             orderWindow.userFullnameTextBlock.Text = userInfoTextBlock.Text;
             orderWindow.ShowDialog();
             if (!orderWindow.productsListBox.HasItems)
@@ -111,7 +106,7 @@ namespace FragrantWorld.Pages
 
         private void EditOrderButton_Click(object sender, RoutedEventArgs e)
         {
-            var editOrderWindow = new EditOrderWindow();
+            var editOrderWindow = new Windows.EditOrderWindow();
             editOrderWindow.ShowDialog();
             products = DataAccessLayer.GetProduct();
             productsListBox.ItemsSource = products;
@@ -119,14 +114,14 @@ namespace FragrantWorld.Pages
 
         private void EditProductMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            var editProductWindow = new EditProductWindow(products[productsListBox.SelectedIndex]);
+            var editProductWindow = new Windows.EditProductWindow(products[productsListBox.SelectedIndex]);
             editProductWindow.ShowDialog();
             products = DataAccessLayer.GetProduct();
         }
 
         private void AddProductMenuItem_Click(object sender, RoutedEventArgs e)
         {
-            var addProductWindow = new AddProductWindow();
+            var addProductWindow = new Windows.AddProductWindow();
             addProductWindow.ShowDialog();
             products = DataAccessLayer.GetProduct();
             productsListBox.ItemsSource = products;

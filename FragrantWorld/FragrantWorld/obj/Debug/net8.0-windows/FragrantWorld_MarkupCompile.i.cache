@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\
+C:\Users\Артём\Documents\GitHub\---------------\FragrantWorld\FragrantWorld\obj\Debug\net8.0-windows\
 FragrantWorld
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Артём\Downloads\Telegram Desktop\FragrantWorld\FragrantWorld\App.xaml
-9-331786969
+C:\Users\Артём\Documents\GitHub\---------------\FragrantWorld\FragrantWorld\App.xaml
+9-689250635
 
-19-2042591739
-2261942123069
-AddProductWindow.xaml;EditOrderWindow.xaml;EditProductWindow.xaml;MainWindow.xaml;OrderWindow.xaml;Pages\AdminPage.xaml;Pages\ClientPage.xaml;Pages\ManagerPage.xaml;Pages\StartPage.xaml;
+19-388345747
+2261381003214
+Pages\AdminPage.xaml;Pages\ClientPage.xaml;Pages\ManagerPage.xaml;Pages\StartPage.xaml;Windows\AddProductWindow.xaml;Windows\EditOrderWindow.xaml;Windows\EditProductWindow.xaml;Windows\MainWindow.xaml;Windows\OrderWindow.xaml;
 
-True
+False
 
